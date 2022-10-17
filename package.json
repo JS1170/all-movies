@@ -5,7 +5,7 @@
   "homepage": "https://js1170.github.io/all-movies/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /command-js/"
+    "build": "parcel build src/*.html --public-url /all-movies/"
   },
   "repository": {
     "type": "git",
